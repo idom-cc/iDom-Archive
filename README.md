@@ -31,13 +31,13 @@
 ## ✒️ 最新深度卷宗与核心痛点切片（Featured Dossiers）
 
 ### 01. [《为什么曾受欺凌的女生会对羞辱产生快感并伴随剧烈自责？论强迫性重复、创伤色情化与 D/s 秩序救赎》](https://idom.cc/archives/trauma-erotization-repetition-compulsion-sub-redemption)
-<sub>📂 隶属分卷：<b>支配手记</b> ｜ 🗓️ 归档日期：<code>2026-10-22</code> ｜ 🔗 <a href="https://idom.cc/archives/trauma-erotization-repetition-compulsion-sub-redemption">阅读完整卷宗 ↗</a></sub>
+<sub>📂 隶属分卷：<b>支配手记</b> ｜ 🗓️ 归档日期：<code>2026-06-21</code> ｜ 🔗 <a href="https://idom.cc/archives/trauma-erotization-repetition-compulsion-sub-redemption">阅读完整卷宗 ↗</a></sub>
 
 > **提要**：深度共情并解构为何早年遭受过同伴欺凌的女生，成年后会对羞辱与压制产生强烈快感，却又在事后陷入“被看穿的羞耻”与自责：从神经痛感熔断、斯托勒“创伤色情化”与弗洛伊德“强迫性重复”揭示其大脑自救本质，并阐明真正的上位者如何通过安全词与事后安抚完成秩序救赎。
 >
-> - **核心切片 01**：01 / 痛点刺破：对羞辱产生生理兴奋绝非“天生犯贱”，那是早年孤立无援的你，为了防止精神崩溃而启动的最高级别神经自救。
-> - **核心切片 02**：02 / 心理机制：基于斯托勒“创伤色情化”与弗洛伊德“强迫性重复”，潜意识通过将昔日被动的屈辱改写为主动授权的快感，完成对阴影的缴械。
-> - **核心切片 03**：03 / 秩序法则：在握有安全词主权与温存事后安抚的结界里，坦然享受这份欲望是一场堂堂正正的心理复仇，更是一次改写结局的秩序救赎。
+> - **核心切片 01**：痛点刺破：对羞辱产生生理兴奋绝非“天生犯贱”，那是早年孤立无援的你，为了防止精神崩溃而启动的最高级别神经自救。
+> - **核心切片 02**：心理机制：基于斯托勒“创伤色情化”与弗洛伊德“强迫性重复”，潜意识通过将昔日被动的屈辱改写为主动授权的快感，完成对阴影的缴械。
+> - **核心切片 03**：秩序法则：在握有安全词主权与温存事后安抚的结界里，坦然享受这份欲望是一场堂堂正正的心理复仇，更是一次改写结局的秩序救赎。
 
 ### 02. [《为什么被父亲娇惯的宠儿反而容易成为真正的 Sub 和 M？论特权失重、享乐钝化与卸下皇冠的心理必然》](https://idom.cc/archives/why-pampered-privileged-women-become-true-submissives)
 <sub>📂 隶属分卷：<b>戒尺与玫瑰</b> ｜ 🗓️ 归档日期：<code>2026-05-20</code> ｜ 🔗 <a href="https://idom.cc/archives/why-pampered-privileged-women-become-true-submissives">阅读完整卷宗 ↗</a></sub>
@@ -83,7 +83,7 @@
 | 馆藏编号 | 卷宗文献题名（点击直达全文） | 所属分卷 | 归档日期 |
 | :--- | :--- | :---: | :---: |
 | `📌 创馆宪章` | **[《iDom 序言与契约：在交付控制权之前，请先读懂这里的精神秩序与底线法则》](https://idom.cc/archives/idom-rules-and-contract)** | `规则与安全` | `2022-12-21` |
-| `VOL.2026.20` | **[《为什么曾受欺凌的女生会对羞辱产生快感并伴随剧烈自责？论强迫性重复、创伤色情化与 D/s 秩序救赎》](https://idom.cc/archives/trauma-erotization-repetition-compulsion-sub-redemption)** | `支配手记` | `2026-10-22` |
+| `VOL.2026.20` | **[《为什么曾受欺凌的女生会对羞辱产生快感并伴随剧烈自责？论强迫性重复、创伤色情化与 D/s 秩序救赎》](https://idom.cc/archives/trauma-erotization-repetition-compulsion-sub-redemption)** | `支配手记` | `2026-06-21` |
 | `VOL.2026.19` | **[《为什么被父亲娇惯的宠儿反而容易成为真正的 Sub 和 M？论特权失重、享乐钝化与卸下皇冠的心理必然》](https://idom.cc/archives/why-pampered-privileged-women-become-true-submissives)** | `戒尺与玫瑰` | `2026-05-20` |
 | `VOL.2026.18` | **[《亚文化作为叛逆勋章：为什么自称 Brat 的伪 Sub 与“伪女同”本质上是同一种身份表演？》](https://idom.cc/archives/subculture-rebellion-performative-sub-brat-psychology)** | `支配手记` | `2026-04-18` |
 | `VOL.2025.17` | **[《为什么很多女生的 Sub 与 M 属性只是“叶公好龙”？论青春期情感忽视、难以启齿的欲望与高潮错觉固化》](https://idom.cc/archives/adolescent-emotional-neglect-fantasy-pseudo-sub-masochism)** | `支配手记` | `2025-11-22` |
