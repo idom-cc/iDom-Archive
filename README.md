@@ -78,21 +78,22 @@
 
 <br/>
 
-## 📚 历年馆藏卷宗全编年表（Since 2022 Chronological Index · 共 21 卷）
+## 📚 历年馆藏卷宗全编年表（Since 2022 Chronological Index · 共 22 卷）
 
 | 馆藏编号 | 卷宗文献题名（点击直达全文） | 所属分卷 | 归档日期 |
 | :--- | :--- | :---: | :---: |
 | `📌 创馆宪章` | **[《iDom 序言与契约：在交付控制权之前，请先读懂这里的精神秩序与底线法则》](https://idom.cc/archives/idom-rules-and-contract)** | `规则与安全` | `2022-12-21` |
-| `VOL.2026.20` | **[《为什么曾受欺凌的女生会对羞辱产生快感并伴随剧烈自责？论强迫性重复、创伤色情化与 D/s 秩序救赎》](https://idom.cc/archives/trauma-erotization-repetition-compulsion-sub-redemption)** | `支配手记` | `2026-06-21` |
-| `VOL.2026.19` | **[《为什么被父亲娇惯的宠儿反而容易成为真正的 Sub 和 M？论特权失重、享乐钝化与卸下皇冠的心理必然》](https://idom.cc/archives/why-pampered-privileged-women-become-true-submissives)** | `戒尺与玫瑰` | `2026-05-20` |
-| `VOL.2026.18` | **[《亚文化作为叛逆勋章：为什么自称 Brat 的伪 Sub 与“伪女同”本质上是同一种身份表演？》](https://idom.cc/archives/subculture-rebellion-performative-sub-brat-psychology)** | `支配手记` | `2026-04-18` |
-| `VOL.2025.17` | **[《为什么很多女生的 Sub 与 M 属性只是“叶公好龙”？论青春期情感忽视、难以启齿的欲望与高潮错觉固化》](https://idom.cc/archives/adolescent-emotional-neglect-fantasy-pseudo-sub-masochism)** | `支配手记` | `2025-11-22` |
-| `VOL.2025.16` | **[《为什么年轻女性普遍迷恋“年上”？论神经发育时差、主体间承认与 D/s 移情权威的崩解》](https://idom.cc/archives/why-young-women-submissives-crave-older-dominant-men)** | `支配手记` | `2025-09-07` |
-| `VOL.2025.15` | **[《如何区分自己是真正的Sub或M还是单纯缺爱？别拿D/s臣服当成换取陪伴的筹码》](https://idom.cc/archives/distinguish-true-submissive-from-loneliness-need-for-company)** | `支配手记` | `2025-06-21` |
-| `VOL.2025.14` | **[《为什么市面上 90% 的 D/s 属性测试都是玩具？附 280 项完整版 D/s 自测表（Checklist）使用指南》](https://idom.cc/archives/bdsm-checklist-self-test-guide)** | `支配手记` | `2025-04-04` |
-| `VOL.2025.13` | **[《为什么 Sub 不能找自己的 Dom 做结婚对象？论 D/s 权力关系与世俗婚姻的天然悖论》](https://idom.cc/archives/why-sub-should-not-marry-dom)** | `规则与安全` | `2025-01-20` |
-| `VOL.2024.12` | **[《阅读清单：重构精神秩序的 5 本书》](https://idom.cc/archives/yue-du-qing-dan-chong-gou-jing-shen-zhi-xu-de-5-ben-shu)** | `支配手记` | `2024-11-22` |
-| `VOL.2024.11` | **[《每周思考题：写下你最渴望被规约的一个坏习惯》](https://idom.cc/archives/mei-zhou-si-kao-ti-xie-xia-ni-zui-ke-wang-bei-gui-yue-de-yi-ge-pi-xi-guan)** | `支配手记` | `2024-09-22` |
+| `VOL.2026.21` | **[《为什么曾受欺凌的女生会对羞辱产生快感并伴随剧烈自责？论强迫性重复、创伤色情化与 D/s 秩序救赎》](https://idom.cc/archives/trauma-erotization-repetition-compulsion-sub-redemption)** | `支配手记` | `2026-06-21` |
+| `VOL.2026.20` | **[《为什么被父亲娇惯的宠儿反而容易成为真正的 Sub 和 M？论特权失重、享乐钝化与卸下皇冠的心理必然》](https://idom.cc/archives/why-pampered-privileged-women-become-true-submissives)** | `戒尺与玫瑰` | `2026-05-20` |
+| `VOL.2026.19` | **[《亚文化作为叛逆勋章：为什么自称 Brat 的伪 Sub 与“伪女同”本质上是同一种身份表演？》](https://idom.cc/archives/subculture-rebellion-performative-sub-brat-psychology)** | `支配手记` | `2026-04-18` |
+| `VOL.2025.18` | **[《为什么很多女生的 Sub 与 M 属性只是“叶公好龙”？论青春期情感忽视、难以启齿的欲望与高潮错觉固化》](https://idom.cc/archives/adolescent-emotional-neglect-fantasy-pseudo-sub-masochism)** | `支配手记` | `2025-11-22` |
+| `VOL.2025.17` | **[《为什么年轻女性普遍迷恋“年上”？论神经发育时差、主体间承认与 D/s 移情权威的崩解》](https://idom.cc/archives/why-young-women-submissives-crave-older-dominant-men)** | `支配手记` | `2025-09-07` |
+| `VOL.2025.16` | **[《如何区分自己是真正的Sub或M还是单纯缺爱？别拿D/s臣服当成换取陪伴的筹码》](https://idom.cc/archives/distinguish-true-submissive-from-loneliness-need-for-company)** | `支配手记` | `2025-06-21` |
+| `VOL.2025.15` | **[《为什么市面上 90% 的 D/s 属性测试都是玩具？附 280 项完整版 D/s 自测表（Checklist）使用指南》](https://idom.cc/archives/bdsm-checklist-self-test-guide)** | `支配手记` | `2025-04-04` |
+| `VOL.2025.14` | **[《为什么 Sub 不能找自己的 Dom 做结婚对象？论 D/s 权力关系与世俗婚姻的天然悖论》](https://idom.cc/archives/why-sub-should-not-marry-dom)** | `规则与安全` | `2025-01-20` |
+| `VOL.2024.13` | **[《阅读清单：重构精神秩序的 5 本书》](https://idom.cc/archives/yue-du-qing-dan-chong-gou-jing-shen-zhi-xu-de-5-ben-shu)** | `支配手记` | `2024-11-22` |
+| `VOL.2024.12` | **[《每周思考题：写下你最渴望被规约的一个坏习惯》](https://idom.cc/archives/mei-zhou-si-kao-ti-xie-xia-ni-zui-ke-wang-bei-gui-yue-de-yi-ge-pi-xi-guan)** | `支配手记` | `2024-09-22` |
+| `VOL.2024.11` | **[《D/s 关系中的唯一性与排他欲：当 Sub 要求“只有她一个”时在索要什么？》](https://idom.cc/archives/exclusivity-in-ds-relationships)** | `支配手记` | `2024-07-22` |
 | `VOL.2024.10` | **[《Sub-drop 应对全指南：深度臣服后的情绪断崖与事后安抚（Aftercare）》](https://idom.cc/archives/sub-drop-aftercare-guide)** | `规则与安全` | `2024-05-21` |
 | `VOL.2024.09` | **[《痛感的心理阈值与情绪释放：为什么受控的戒尺能终结现代人的精神内耗？》](https://idom.cc/archives/pain-threshold-and-emotional-release)** | `戒尺与玫瑰` | `2024-03-20` |
 | `VOL.2024.08` | **[《如何辨别真伪 Dom（支配者）：警惕绕过现实择偶门槛的低劣索取者》](https://idom.cc/archives/how-to-identify-real-dom)** | `规则与安全` | `2024-01-20` |
