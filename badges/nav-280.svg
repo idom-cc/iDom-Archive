@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 92" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14171C"/>
+      <stop offset="100%" stop-color="#0B0C0E"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="676" height="88" rx="10" fill="url(#bg)" stroke="#272A30" stroke-width="1.5"/>
+  <rect x="2" y="14" width="4.5" height="64" rx="2" fill="#CC1B26"/>
+  <text x="32" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" font-weight="600" fill="#A1A1AA" letter-spacing="1.5">INTERACTIVE SCALE · 契约量表</text>
+  <text x="32" y="50" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="700" fill="#F4F4F5" letter-spacing="0.4">280 项 D/s 边界契约完整自测表</text>
+  <text x="32" y="73" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#9CA3AF" letter-spacing="0.3">涵盖精神控制、日常规训与安全底线的结构化清单</text>
+  <rect x="542" y="27" width="114" height="38" rx="6" fill="#1C1F26" stroke="#3F3F46" stroke-width="1"/>
+  <text x="599" y="51" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="13" font-weight="700" fill="#E4E4E7" letter-spacing="0.5">开始自测 ➔</text>
+</svg>

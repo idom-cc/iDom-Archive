@@ -9,7 +9,7 @@
 [[https://img.shields.io/badge/Curator_Notes-瞬间手记与回执-71717A?style=for-the-badge&labelColor=121316]](https://idom.cc/moments)
 
 *“秩序是自由的起点，臣服是灵魂的归宿。戒尺落下是为了重建精神的澄明，而非宣泄失控的私欲。”*  
-**执笔馆长：iDom（执戒尺者）** ｜ **官方唯一主站：[https://idom.cc](https://idom.cc/)**  
+**执笔馆长：iDom（执戒尺者）** ｜ **官方唯一主站：<a href="https://idom.cc/"><kbd><b>↗ 立即前往访问</b></kbd></a>**  
 <sub>⚠️ 提示：微信 / 小红书内置浏览器直接点击链接易被拦截，请复制 <code>https://idom.cc</code> 至系统浏览器（Safari / Chrome / Edge）打开。</sub>
 
 </div>
