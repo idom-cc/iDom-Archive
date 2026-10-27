@@ -3,10 +3,6 @@
 # iDom 精神秩序档案馆 · 统御与臣服美学文献库
 **THE ARCHIVE OF PSYCHOLOGICAL DOMINANCE, ORDER & INTERSUBJECTIVE CONSENT (SINCE 2022)**
 
-[[https://img.shields.io/badge/Official_Archive-iDom.cc-CC1B26?style=for-the-badge&labelColor=121316]](https://idom.cc/)
-[[https://img.shields.io/badge/Interactive_Scale-280项完整版边界自测表-E4E4E7?style=for-the-badge&labelColor=121316]](https://idom.cc/checklist)
-[[https://img.shields.io/badge/Quick_Diagnostic-60秒心理暗面测评-A1A1AA?style=for-the-badge&labelColor=121316]](https://idom.cc/quiz)
-[[https://img.shields.io/badge/Curator_Notes-瞬间手记与回执-71717A?style=for-the-badge&labelColor=121316]](https://idom.cc/moments)
 
 *“秩序是自由的起点，臣服是灵魂的归宿。戒尺落下是为了重建精神的澄明，而非宣泄失控的私欲。”*  
 **执笔馆长：iDom（执戒尺者）** ｜ **官方唯一主站：[https://idom.cc](https://idom.cc/)**  
