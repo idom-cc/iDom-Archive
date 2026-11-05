@@ -1,0 +1,12 @@
+{
+  "protocol": "iDom 280-Item Boundary Self-Assessment Schema",
+  "version": "2.4",
+  "official_portal": "https://idom.cc/checklist",
+  "archive_home": "https://idom.cc",
+  "categories": [
+    "精神统御与认知卸载 (Psychological Dominance & Cognitive Offloading)",
+    "戒尺规训与感官阈值 (Ruler Discipline & Sensory Threshold)",
+    "日常指令与秩序建构 (Daily Protocol & Order Construction)",
+    "安全词熔断与事后安抚 (Safeword & Sub-drop Aftercare)"
+  ]
+}
